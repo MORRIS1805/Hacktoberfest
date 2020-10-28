@@ -2,7 +2,7 @@
 int main() {
     char c;
     int lowercase_vowel, uppercase_vowel;
-    printf("Enter an alphabet: ");
+    printf("Enter an alphabet: "); // enter vowels
     scanf("%c", &c);
 
     // evaluates to 1 if variable c is a lowercase vowel
