@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int main() {                   // tshirt bolte
     char c;
     int lowercase_vowel, uppercase_vowel;
     printf("Enter an alphabet: ");
