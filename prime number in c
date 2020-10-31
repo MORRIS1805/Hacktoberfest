@@ -18,7 +18,7 @@ int main() {
     }
     else {
         if (flag == 0)
-            printf("%d is a prime number.", n);
+            printf("%d is a prime number.", n); //line to be displayed on output
         else
             printf("%d is not a prime number.", n);
     }
